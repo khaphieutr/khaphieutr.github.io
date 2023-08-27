@@ -1,0 +1,1 @@
+const btn=document.querySelector(".hamburger"),box=document.querySelector(".box");btn.addEventListener("click",(function(){btn.querySelectorAll(".icon").forEach((function(e){e.classList.toggle("hidden")})),box.classList.toggle("open")}));
