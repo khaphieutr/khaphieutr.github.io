@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>/blog/huong-dan-dang-bai/</loc>
-<lastmod>2026-07-31T04:05:39+00:00</lastmod>
+<lastmod>2026-08-15T16:07:18+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/so-luoc-ve-mat-khau/</loc>
@@ -35,6 +35,10 @@
 <url>
 <loc>/blog/softmax/</loc>
 <lastmod>2026-08-13T15:26:19+00:00</lastmod>
+</url>
+<url>
+<loc>/blog/letter-1/</loc>
+<lastmod>2026-08-15T17:14:32+00:00</lastmod>
 </url>
 <url>
 <loc>/profile/about/</loc>
@@ -73,9 +77,6 @@
 <lastmod>2026-08-04T16:27:09+00:00</lastmod>
 </url>
 <url>
-<loc>/blog/category/blog/</loc>
-</url>
-<url>
 <loc>/blog/category/internet/</loc>
 </url>
 <url>
@@ -89,6 +90,9 @@
 </url>
 <url>
 <loc>/blog/category/game/</loc>
+</url>
+<url>
+<loc>/blog/category/blog/</loc>
 </url>
 <url>
 <loc>/blog/category/artificial-intelligence/</loc>
